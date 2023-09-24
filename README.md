@@ -7,10 +7,11 @@ This repository contains all the necessary files for the project submission, in 
 of the implemented pipeline;
 - **software submission**: a single Python containing the implemented pipeline that produced the **result submission**.
 
-It contains also the **project.ipynb** notebook containing all the steps descibed in the report submission and all the files needed by the software to work properly.  
+It contains also all the files needed by the software to work properly and some other files that were useful for the report, amonth which:  
 
-The **produced_documents** folder contains all the relevant documents produced through the project development, many of them are used in the software submission and the project notebook.  
-The **secondary_notebooks** folder contains the notebooks used to produce the visualizations proposed in the report submission file.  
-The **requirements.txt** file contains a list of the modules and packages required by the project.
-The **fall_project_dataset** folder contains the dataset provided in the assignment.  
-The **Data_Science_Lab__Project_Assignment_September_2023-2.pdf** file contains the project assignment.
+- the **project.ipynb** notebook containing all the steps descibed in the report submission and
+- the **produced_documents** folder contains all the relevant documents produced through the project development, many of them are used in the software submission and the project notebook.  
+- the **secondary_notebooks** folder contains the notebooks used to produce the visualizations proposed in the report submission file.  
+- the **requirements.txt** file contains a list of the modules and packages required by the project.
+- the **fall_project_dataset** folder contains the dataset provided in the assignment.  
+- the **Data_Science_Lab__Project_Assignment_September_2023-2.pdf** file contains the project assignment.
